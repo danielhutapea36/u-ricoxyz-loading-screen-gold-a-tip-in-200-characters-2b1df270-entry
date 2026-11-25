@@ -16,7 +16,9 @@ in a glance — one short line, every word working; (4) speaks to
 both audiences at once — the developer recognises the renamed
 variable, the agent recognises itself stalling; (5) fresh — no
 coffee, deadline or compile joke, just the quiet absurdity of an
-agent polishing a name while the build burns.
+agent polishing a name while the build burns. The em dash is the
+hinge: everything before it is the setup, everything after it is
+the verdict, and "Ship it." is the tip itself.
 """
 
 import os
